@@ -1,0 +1,4 @@
+outs:
+- md5: b6d5853337e14d786912ef22b1bd48cf
+  size: 10441
+  path: Model_w_ResNet50_pretrained.ipynb
